@@ -162,8 +162,7 @@ if(isset($_POST['but_submit'])){
 	  </div>
 <footer>
       <hr>
-        <div class="copyright"> &copy; 2013 - <?=date("Y")?> <a href="https://misitio.com" target="_blank">software</a>. All rights reserved </div>
-        <div class="footerlogo"><a href="https://misitio.com" target="_blank"></a> </div>
+        <div class="copyright"> &copy; 2022 - <?=date("Y")?> software. All rights reserved </div>
 </footer>
 </div>
 
