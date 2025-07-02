@@ -1,5 +1,5 @@
-✈️ FlightApp - Aplicación de Gestión de Vuelos
-FlightApp es una aplicación web que permite a los usuarios buscar, reservar y gestionar vuelos nacionales e internacionales. Ofrece una experiencia simple, intuitiva y segura tanto para viajeros como para administradores.
+✈️ Avianca - Aplicación de Gestión de Vuelos
+Avianca es una aplicación web que permite a los usuarios buscar, reservar y gestionar vuelos nacionales e internacionales. Ofrece una experiencia simple, intuitiva y segura tanto para viajeros como para administradores.
 
 🚀 Características Principales
 🔍 Búsqueda de vuelos por origen, destino y fecha.
@@ -27,7 +27,7 @@ Otros: API externa (opcional) para vuelos reales como Amadeus o Skyscanner
 bash
 Copy
 Edit
-FlightApp/
+Avianca/
 ├── backend/            # Archivos del servidor y lógica de negocio
 ├── frontend/           # Vistas y archivos estáticos
 ├── database/           # Scripts de base de datos (SQL)
@@ -39,8 +39,8 @@ Clona el repositorio:
 bash
 Copy
 Edit
-git clone https://github.com/tuusuario/FlightApp.git
-cd FlightApp
+git clone https://github.com/tuusuario/Avianca.git
+cd Avianca
 Configura la base de datos:
 
 Crea una base de datos en tu servidor MySQL/PostgreSQL.
